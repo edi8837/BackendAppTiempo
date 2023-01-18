@@ -1,0 +1,2 @@
+{"nombrePocuto":"Abrazadera U2","final":"16560","cantidad":"2","construcción ":"16560","galvanizado ":"16560","armado":"16560"}
+{"nombrePocuto":"Abrazadera U2","final":"16560","cantidad":"2","construcción ":"16560","galvanizado ":"16560","armado":"16560"}
